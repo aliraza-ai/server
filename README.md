@@ -63,6 +63,7 @@ For sessions in server need to install : npm install jsonwebtoken
 
 
 
-<a hraf="https://59dollarsocial.com/">AFFORDABLE DIGITAL MARKETING SERVICES FOR SMALL BUSINESSES</a>
+<a href="https://59dollarsocial.com/">AFFORDABLE DIGITAL MARKETING SERVICES FOR SMALL BUSINESSES</a>
+
 
 
